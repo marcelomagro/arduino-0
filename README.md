@@ -3,4 +3,4 @@
  <br>
  Iniciando estudos com arduino. Buscando uma possível participação na comPETção organizada pelo PET Potência.
  <br>
- Aqui irei registrar todo o meu progresso de estudos com arduino até o dia do evento.
+ Aqui irei registrar todo o meu progresso de estudos até o dia do evento.
